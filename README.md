@@ -1,4 +1,5 @@
 cpm-rescache
 ============
 
-Resource caching.
+Resource caching module.
+
